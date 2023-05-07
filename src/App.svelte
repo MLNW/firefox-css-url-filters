@@ -4,7 +4,7 @@
 </script>
 
 <main>
-  <div id="svgContainer" hidden>
+  <div id="svgContainer" class="hidden">
     {@html apolloFilter}
     {@html blurFilter}
   </div>
